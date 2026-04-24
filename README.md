@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-   GỬI TIN NHẮN BROADCAST QUA UDP
+   FAST AND FURIOUS I
 </h2>
 <div align="center">
     <p align="center">
@@ -36,7 +36,7 @@ Tuy không đảm bảo tin nhắn đến đúng thứ tự, nhưng UDP phù h�
 - **Ngôn ngữ lập trình:** Java (JDK 21)  
 - **Giao diện:** Java Swing  
 - **Giao thức mạng:** UDP (User Datagram Protocol)  
-- **IDE:** Eclipse  
+
 ## 3. Hình ảnh các chức năng
 <p align="center">
   <img src="images/hinh2.jpg" alt="Ảnh 2" width="700"/>
